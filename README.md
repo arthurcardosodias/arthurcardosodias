@@ -1,6 +1,3 @@
-
-<img align="center" height="200cm" width="1000cm" src="https://static01.nyt.com/images/2020/03/18/business/18Techfix-illo/18Techfix-illo-articleLarge.gif?quality=75&auto=webp&disable=upscale">
-
 ### Olá eu sou Arthur Cardoso Dias
 
 Olá eu sou Arthur, atualmente exerço a função de Analista de BI Sênior / Engenharia de dados, tendo como principais ferramentas do dia-a-dia a utilização dos bancos de dados (SQL Server, Postgres, MySQL) e utilização do ambiente Cloud AWS (Redshift, EC2, S3, Glue) ferramentas de ETL como Pentaho Data Integration, Talend Data Integration e muitas vezes até Python como ferramenta de ETL (Devido a sua versatilidade) e como ferramentas de BI - Power BI e Tableau.
@@ -27,3 +24,6 @@ Olá eu sou Arthur, atualmente exerço a função de Analista de BI Sênior / En
 
 <a href = "https://www.linkedin.com/in/arthur-dias-52a81098" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=White" target="_blank"></a>
 <a href = "mailto:arthur@ardictechnology.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+ ##
+  <img align="center" height="200cm" width="1000cm" src="https://static01.nyt.com/images/2020/03/18/business/18Techfix-illo/18Techfix-illo-articleLarge.gif?quality=75&auto=webp&disable=upscale">
