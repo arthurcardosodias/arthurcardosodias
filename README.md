@@ -7,8 +7,8 @@ Olá eu sou Arthur, atualmente exerço a função de Analista de BI Sênior / En
 
 <div>
 <a href="https://github.com/arthurcardosodias">
-<img height="170cm" src="https://github-readme-stats.vercel.app/api?username=arthurcardosodias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcardosodias&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=arthurcardosodias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcardosodias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <img height="60cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img height="60cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
